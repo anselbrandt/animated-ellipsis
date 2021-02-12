@@ -1,4 +1,4 @@
-# React Animated Allipsis Component
+# React Animated Ellipsis Component
 
 ```javascript
 import React, { useEffect, useRef, useState } from "react";
